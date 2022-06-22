@@ -1,0 +1,7 @@
+wed - https://eli.thegreenplace.net/2011/04/01/sample-using-qscintilla-with-pyqt
+
+pip install QScintilla
+
+token - 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
+
+https://github.com/Tush960/test-conn.git
